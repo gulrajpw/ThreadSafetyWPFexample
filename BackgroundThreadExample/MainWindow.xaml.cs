@@ -12,7 +12,7 @@ namespace BackgroundThreadExample
         {
             InitializeComponent();
             
-
+            //This thread adds text to a textbox located on the main application thread in a safe way.
             Thread setResponse = new Thread(new ThreadStart(AppendTextbox));
             setResponse.Start();
 
@@ -20,7 +20,7 @@ namespace BackgroundThreadExample
 
         }
 
-
+        //Simple event handle for a button. 
         private void button_Click(object sender, RoutedEventArgs e)
         {
             //add text to a label
