@@ -1,0 +1,14 @@
+C:\Users\Patrick\documents\visual studio 2015\Projects\BackgroundThreadExample\BackgroundThreadExample\bin\Debug\BackgroundThreadExample.exe.config
+C:\Users\Patrick\documents\visual studio 2015\Projects\BackgroundThreadExample\BackgroundThreadExample\bin\Debug\BackgroundThreadExample.exe
+C:\Users\Patrick\documents\visual studio 2015\Projects\BackgroundThreadExample\BackgroundThreadExample\bin\Debug\BackgroundThreadExample.pdb
+C:\Users\Patrick\documents\visual studio 2015\Projects\BackgroundThreadExample\BackgroundThreadExample\obj\Debug\ThreadSafetyExample.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\documents\visual studio 2015\Projects\BackgroundThreadExample\BackgroundThreadExample\obj\Debug\MainWindow.g.cs
+C:\Users\Patrick\documents\visual studio 2015\Projects\BackgroundThreadExample\BackgroundThreadExample\obj\Debug\App.g.cs
+C:\Users\Patrick\documents\visual studio 2015\Projects\BackgroundThreadExample\BackgroundThreadExample\obj\Debug\BackgroundThreadExample_MarkupCompile.cache
+C:\Users\Patrick\documents\visual studio 2015\Projects\BackgroundThreadExample\BackgroundThreadExample\obj\Debug\BackgroundThreadExample_MarkupCompile.lref
+C:\Users\Patrick\documents\visual studio 2015\Projects\BackgroundThreadExample\BackgroundThreadExample\obj\Debug\MainWindow.baml
+C:\Users\Patrick\documents\visual studio 2015\Projects\BackgroundThreadExample\BackgroundThreadExample\obj\Debug\BackgroundThreadExample.g.resources
+C:\Users\Patrick\documents\visual studio 2015\Projects\BackgroundThreadExample\BackgroundThreadExample\obj\Debug\BackgroundThreadExample.Properties.Resources.resources
+C:\Users\Patrick\documents\visual studio 2015\Projects\BackgroundThreadExample\BackgroundThreadExample\obj\Debug\ThreadSafetyExample.csproj.GenerateResource.Cache
+C:\Users\Patrick\documents\visual studio 2015\Projects\BackgroundThreadExample\BackgroundThreadExample\obj\Debug\BackgroundThreadExample.exe
+C:\Users\Patrick\documents\visual studio 2015\Projects\BackgroundThreadExample\BackgroundThreadExample\obj\Debug\BackgroundThreadExample.pdb
